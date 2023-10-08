@@ -1,0 +1,22 @@
+.wrapper {
+
+}
+
+.title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-align: center;
+    padding: 1rem;
+    margin: 2rem auto;
+    color: #000;
+    width: 600px; 
+}
+
+.icon {
+    margin: 2rem auto;
+    display: block;
+    text-align: center;
+    font-size: 10rem;
+    color: rgb(209, 130, 143);
+    cursor: pointer;
+}

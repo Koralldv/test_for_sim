@@ -1,0 +1,4 @@
+.wrapper {
+    background-color: beige;
+    height: calc(100vh - 43px);
+}
